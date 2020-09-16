@@ -1,0 +1,2 @@
+# Database-project
+The DBMS will be a database with a user interface that will allow VSDB data to be viewed, stored and updated using SQL queries to the database. These will allow the store to maintain and have easy and efficient access to accurate and up-to-date records relevant to the VSDB information. The system will facilitate the VSDB by updating database tables. It will also allow the VSDB to easily look for a client and all sort of queries by using complex queries.   
